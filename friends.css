@@ -312,6 +312,8 @@ font-style: ;
     justify-content: space-around;
     position: relative;
     align-items: center;
-    height: 43px;
+    height: 53px;
+    background-color:rgba(246, 246, 246, 0.625);
+
   }
 
